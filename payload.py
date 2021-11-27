@@ -11,9 +11,6 @@ r = requests.post(TARGET_URL + '/api/submit', json = {
     }
 })
 
-
-
-
 print(r.status_code)
 print(r.text)
 
