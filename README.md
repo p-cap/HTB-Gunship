@@ -1,6 +1,3 @@
-# HTB-Gunship
-Redid the Gunship application that focuses on the vulnerability at hand
-
 # Minimized version Gunship from HTB
 
 ## Pre-requisites
